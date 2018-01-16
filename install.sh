@@ -2,9 +2,9 @@
 
 set -euo pipefail
 
-VERSION=0.3.0
+VERSION=1.0.0
 EXTENSION=codesnippet
-NAME="SwiftSnippets-${VERSION}"
+NAME="Snippets-${VERSION}"
 DOWNLOAD_URI=https://github.com/bssl/Snippets/archive/${VERSION}.tar.gz
 DIR="${HOME}/Library/Developer/Xcode/UserData/CodeSnippets"
 
