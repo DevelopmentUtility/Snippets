@@ -4,7 +4,7 @@ set -euo pipefail
 
 VERSION=1.0.0
 EXTENSION=codesnippet
-NAME="Snippets-${VERSION}"
+NAME="Snippets"
 DOWNLOAD_URI=https://github.com/bssl/Snippets/archive/${NAME}.tar.gz
 DIR="${HOME}/Library/Developer/Xcode/UserData/CodeSnippets"
 
